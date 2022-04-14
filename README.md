@@ -8,9 +8,9 @@ Projet TER fait par KHARAOUI Mohamed El Bachir et encadré par Professeur Luiz A
   * Rainnet_tests.ipynb
 
 
-* **Ozone_model_powered_by_Rainnet_v2e.h5** est le modèle de Rainnet entrainé avec les données d'Ozone
+* [**Ozone_model_powered_by_Rainnet_v2e.h5**](https://drive.google.com/drive/u/0/folders/1yyq4TW6cv2huzKZMBOOXVRsgTHGuCZGl) est le modèle de Rainnet entrainé avec les données d'Ozone
 
-* **Ozone.hdf5** est le dataset des données d'Ozone.
+* [**Ozone.hdf5**](https://drive.google.com/drive/u/0/folders/1yyq4TW6cv2huzKZMBOOXVRsgTHGuCZGl) est le dataset des données d'Ozone.
 
 
 * Le dossier "Ozone_valid_data_for_evaluation" contient les fichiers ayant servi à l'évaluation
