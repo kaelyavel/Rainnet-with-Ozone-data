@@ -1,9 +1,11 @@
-#[Rainnet](https://github.com/hydrogo/rainnet) for Ozone prediction
+# [Rainnet](https://github.com/hydrogo/rainnet) for Ozone prediction
 Projet TER fait par KHARAOUI Mohamed El Bachir et encadré par Professeur Luiz Angelo Steffenel
 
 
 * Les Notebooks de ce dossier sont fonctionnels avec Colab de Google en utilisant un GPU :
+
 ** RainNet_Training_Ozone_2e.ipynb
+
 ** Rainnet_tests.ipynb
 
 
@@ -18,6 +20,7 @@ de Rainnet avec les données d'Ozone
 * Le dossier "scripts" contient les fichiers suivants : 
 
 ** precipitation_verification_files.py : Generates verification files for Rainnet precipitation predictions
+
 ** Ozone_verification_files.py : Generates verification files for Rainnet Ozone prediction
 ** Ozone_to_dataset.py : Transforms Ozone images into HDF5 Dataset for Rainnet
 ** Ozone_image_keys.py : Extracts Ozone images keys into file
